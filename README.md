@@ -4,14 +4,6 @@ My name is Adrián Quesada López 🙌 and I am a front-end developer focused on
 Currently working and betting on VUE 📈, although with knowledge in Angular. 
 The current status of my skills and interests!
 
-> Caption:
-> ❤️ --> Very interested.
-> ✔️ --> Trained and up to date. 
-> 📚 --> Training with the latest updates.
-> 📈 --> Interested.
-> 📉 --> Not very interested.
-> 💔 --> Very little interested.
-
 - JAVASCRIPT - TYPESCRIPT  ❤️
 - VUE 2/3 | VUE SFC SCRIPT SETUP  📈 - 📚
 - ANGULAR 12  📈 - 📚
@@ -24,6 +16,14 @@ The current status of my skills and interests!
 -  JQUERY | WEBCOMPONENT   ✔️ - 📉
 -  JENKIS ✔️- 📉
 - JAVA | PHP | SVN | XUL ✔️ - 💔
+
+> Caption:
+> - ❤️ --> Very interested.
+> - ✔️ --> Trained and up to date. 
+> - 📚 --> Training with the latest updates.
+> - 📈 --> Interested.
+> - 📉 --> Not very interested.
+> - 💔 --> Very little interested.
 
 <!--
 **AdrianQL/AdrianQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
