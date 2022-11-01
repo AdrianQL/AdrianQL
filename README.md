@@ -1,8 +1,9 @@
 ### Hi there, I'm Adrián Quesada López 👋
 
-I'm a developer focused on the environment that converges and lives Javascript ✍️.
-Currently working and betting on VUE 📈, although with knowledge in Angular. 
-The current status of my skills and interests!
+I'm a developer focused on the environment that converges and lives Javascript ✍️.</br>
+Currently working and betting on VUE 📈, although with knowledge in Angular. </br>
+
+🔭 I’m currently working on [Hiberus](https://www.hiberus.com/).
 
 ## Tecnologías:
 
